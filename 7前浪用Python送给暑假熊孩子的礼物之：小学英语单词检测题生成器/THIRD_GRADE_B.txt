@@ -1,0 +1,189 @@
+song	歌曲
+TV	电视台
+favourite	最喜欢的
+colour	颜色
+Here you are.	给你。
+they	他（她/它）们
+they're=they are	他（她/它）们是
+monkey	猴子
+baby	幼兽，幼畜
+all	每个；全体
+zoo	动物园
+tiger	老虎
+lion	狮子
+elephant	大象
+fat	胖的
+man	人，男人
+short	矮的
+tall	高的
+small	小的
+thin	瘦的
+big	大的
+like	喜欢
+football	足球
+them	他（她/它）们
+ouch	哎呦
+basketball	篮球
+table tennis	兵乓球
+morning exercises	早操
+ride	骑
+bike	自行车
+swim	游泳
+skip	跳绳
+meat	肉
+pass	传递
+rice	米饭；米
+mum	妈妈
+noodles	（常复）面条
+fish	鱼肉；鱼
+but	但是
+milk	牛奶
+mm	呣
+does	do的第三人称单数
+orange	橙；柑；橘
+apple	苹果
+banana	香蕉
+pear	梨
+doesn't=does not	不
+goes	（go的第三人称单数形式）去，到
+go to school	上学
+on	在……的时候；通过……，以……的方式
+Monday	星期一
+play	参加（体育活动、比赛等）
+phone	电话；电话机
+on the phone	通电话
+with	与……在一起，同，跟，和
+friend	朋友
+at	在……
+home	家
+at home	在家
+who	谁
+only	只，仅仅
+year	年龄，岁数
+work	工作地点
+go to work	上班
+Saturday	星期六
+shopping	购物
+go shopping	去购物
+dad	爸爸
+do	做，干
+Sunday	星期日
+swimming	游泳（运动）
+go swimming	去游泳
+eat	吃
+in	在……期间，在……时候
+sleep	睡觉
+watch	观看
+TV	电视节目
+watch TV	看电视
+have	做；进行，从事
+class	课；班级
+today	今天
+music	音乐
+has	（have的第三人称单数形式）做；进行，从事
+Chinese	语文，汉语
+maths	数学
+art	美术
+PE=physical education	体育
+science	科学
+we	我们
+fly	放（风筝）
+spring	春天
+summer	夏天
+season	季节
+nice	迷人的，令人愉快的
+warm	暖和的
+hot	热的
+autumn	秋天
+cool	凉爽的
+winter	冬天
+cold	寒冷的
+skating	滑冰
+go skating	去滑冰
+play	玩，玩耍
+snow	雪；下雪
+rain	雨；下雨
+sunny	晴朗的，阳光充足的
+windy	有风的，刮风的
+very	很，非常
+toy	玩具
+under	在……下面
+for	为，给，对
+box	盒子
+behind	在……后面
+bedroom	卧室
+flies	（fly的第三人称单数形式）放（风筝）
+park	公园
+lake	湖
+tree	树
+fishing	捕鱼，钓鱼
+go fishing	去钓鱼
+walk	行走，步行
+have got	有
+sweater	毛线衫
+bed	床
+line	线，绳，金属丝
+about	关于
+animal	动物
+sport	运动
+haven't (got)=have ?not (got)	没有
+dress	连衣裙
+coat	外套
+T-shirt	T恤衫
+has got	（have got的第三人称单数形式）有
+hasn't (got)=has not ?(got)	没有
+by	乘（交通工具）
+bus	公共汽车
+car	汽车，轿车
+hat	帽子
+come	来，来到
+back	回到，返回
+come back	回来
+clothes	（常复）衣服
+open	打开
+let's=let us	让我们
+put on	穿上，戴上
+funny	滑稽的
+party	聚会
+OK	好的
+brown	褐色的，棕色的
+trousers	（常复）裤子
+orange	橙色的，橘黄色的
+shirt	衬衫
+look at	看，朝……看
+shoe	鞋子
+can't=cannot	不能
+turn	（多人依次轮流时）轮到的机会
+white	白色的
+photo	照片
+skirt	女裙，裙子
+another	又一个，再一个
+away	向远处，远离
+coffee	咖啡
+day	天
+each	每个的
+every	每个，每一
+everywhere	各处，到处
+ginger	姜
+letter	字母
+little	年幼的
+love	非常喜欢
+old	年老的
+roar	（狮子的）吼叫声
+school	上学
+so	同样，也
+some	一些
+spice	香料，调味品
+step	脚步声
+tea	茶
+there	在那里
+ting	叮当声，丁零声
+Tuesday	星期二
+up	在高处，在较高处
+vroom	（车辆快速行驶时发出的）呜呜声
+wall	墙
+want	想要
+with	伴随
+MacDonald	麦克唐纳
+Polly	波莉
+Harbin	哈尔滨

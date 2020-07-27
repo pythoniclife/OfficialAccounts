@@ -1,0 +1,162 @@
+I	我
+am	是
+I'm=I am	我是
+aah	啊
+hello	你好
+hi	你好
+ooh	嗬
+goodbye	再见
+bye-bye	再见
+are	是
+How are you?	你好么？你好！
+good	好的
+morning	早餐，上午
+fine	健康的
+thank	谢谢
+you	你；你们
+Ms	女士
+boy	男孩
+girl	女孩
+whoops	哎呦
+and	那么；和
+too	也
+ha ha	哈哈
+what	什么
+is	是
+what's=what is	是什么
+your	你的；你们的
+name	名字
+please	请
+afternoon	下午
+Mr	先生
+point	指
+to	向……
+the	这（那）个，这；那；些
+door	门
+sit	坐
+down	向下
+stand	站
+up	向上
+window	窗户
+blackboard	黑板
+bird	鸟
+tweet	（鸟）啾啾的叫声
+desk	书桌
+chair	椅子
+it	它
+it's=it is	它是
+red	红色的
+look	看
+wow	呀，哇
+yellow	黄色的
+blue	蓝色的
+a(an)	一个，一
+chameleon	变色龙
+my	我的
+panda	熊猫
+now	现在
+green	绿色的
+black	黑色的
+dog	狗
+cat	猫
+cap	帽子
+how many	多少
+one	一
+two	二
+three	三
+four	四
+five	五
+six	六
+seven	七
+eight	八
+nine	九
+oh	噢，哦
+ten	十
+eleven	十一
+twelve	十二
+happy	快乐的
+birthday	生日
+here	这里
+here's=here is	这是
+present	礼物
+this	这个
+pencil	铅笔
+pen	钢笔
+cake	蛋糕
+old	……岁的
+how old	多大
+yes	是的
+you're=you are	你是
+teacher	教师
+pupil	小学生
+school	学校
+classroom	教室
+English	英语
+that	那个
+say	说
+again	再一次
+schoolbag	书包
+ball	球
+book	书
+master	怪物
+new	新的
+kite	风筝
+or	或者
+don't=do not	不
+know	知道
+no	不
+not	不
+isn't=is not	不是
+help	救命（呼救用语）
+where	哪里
+where's=where is	在哪里
+in	在……里
+bag	包
+mother	母亲
+father	父亲
+sister	姐妹
+brother	兄弟
+she	她
+she's=she is	她是
+grandpa	祖父；外祖父
+grandma	祖母；外祖母
+that's=that is	那是
+me	我
+he	他
+he's=he is	他是
+doctor	医生
+policeman	警察
+nurse	护士
+driver	司机
+farmer	农民
+his	他的
+head	头
+leg	腿
+foot	脚
+on	在……上
+arm	胳膊
+hand	手
+her	她的
+nose	鼻子
+eye	眼睛
+mouth	嘴
+ear	耳朵
+all	每个，全体
+finger	手指
+knee	膝盖
+little	小的
+mm	呣
+orange	橙色的，橘黄色的
+purple	紫色的
+rainbow	彩虹
+shoulder	肩膀
+toe	脚趾
+zoo	动物园
+Amy	埃米
+Jim	吉姆
+Kim	金
+Sam	萨姆
+Smart	斯马特
+Sue	休
+Tim	蒂姆
+Tom	汤姆
