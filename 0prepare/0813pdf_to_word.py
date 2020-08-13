@@ -37,25 +37,25 @@ serial_number = 0  # 计数器，用于输出到屏幕的每个文件前的序�
 for file in progress_bar:
     """遍历每个pdf文件，并用win32com.client调用系统中的word程序打开pdf文件，并将每个pdf文件另存为word文件"""
 
-    progress_bar.set_description("转换【{}】中".format(file))
-
     file_path = os.path.join(file_dir, file)  # 返回每个pdf文件的绝对路径
     try:  # 用try...except语句能捕获各种莫名其妙的错误，否则运行时会出现各种不可描述情况
+
         document = word_app.Documents.Open(file_path)  # 用word程序打开当前遍历到的pdf文件
+        progress_bar.set_description("转换【{}】中".format(file))
+
         document.SaveAs(file_path[:-3] + 'docx')  # 将上行代码打开的pdf文件，另存为word文件
         document.Close()  # 关闭上行代码形成的word文件
         serial_number += 1  # 计数器加1
-        time.sleep(1)
+
     except BaseException:  # 捕获异常
         pass  # 不作任何处理
 
-    # print('第{}个文件转换完成： {}docx'.format(serial_number, file[:-3]))  # 格式化输出到屏幕文件转换的完成情况
-
+    # print('---->第{}个文件转换完成： {}docx'.format(serial_number, file[:-3]))  # 格式化输出到屏幕文件转换的完成情况
 
 word_app.Quit()  # 上面循环遍历完所有pdf文件并转换完成后，将打开的word程序关闭
 
 # 以下几行代码，格式化输出信息到屏幕，增强用户体验
-print('_' * 118)
+print('\n' + '_' * 118)
 time_bar()
 
 
